@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp", "CSharp\CSharp.csproj", "{01727587-C8A2-4DB7-8440-76E06395D3D0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "JavaScript", "JavaScript\JavaScript.esproj", "{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{EF322EBF-56C7-440E-8580-2CF90C99F6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01727587-C8A2-4DB7-8440-76E06395D3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01727587-C8A2-4DB7-8440-76E06395D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01727587-C8A2-4DB7-8440-76E06395D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01727587-C8A2-4DB7-8440-76E06395D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1834A7B6-F577-462D-BF1B-FD0FD0F27FF3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EF322EBF-56C7-440E-8580-2CF90C99F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF322EBF-56C7-440E-8580-2CF90C99F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE13AF1-4A1C-42C0-94E8-5BA9ED7FD3B3}
+	EndGlobalSection
+EndGlobal
