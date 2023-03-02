@@ -9,8 +9,9 @@ För att komma igång med utmaningen och implementera lösningen behöver du ins
 C#
 1. Installera Visual Studio Code för ditt operativsystem från https://code.visualstudio.com/.
 2. Installera .NET Core SDK för ditt operativsystem från https://dotnet.microsoft.com/download.
-3. Klona eller ladda ner TDD-Challenge-Goteborg från GitHub: https://github.com/j-y-c/TDD-Challenge-Goteborg.
-4. Öppna en terminal och navigera till mappen Csharp. Kör sedan kommandot dotnet test för att köra enhetstesterna.
+3. Installera C# extension for Visual Studio Code
+4. Klona eller ladda ner TDD-Challenge-Goteborg från GitHub: https://github.com/j-y-c/TDD-Challenge-Goteborg.
+5. Öppna en terminal och navigera till mappen Csharp. Kör sedan kommandot dotnet test för att köra enhetstesterna.
 
 Java
 1. Installera Visual Studio Code för ditt operativsystem från https://code.visualstudio.com/.
@@ -27,5 +28,6 @@ JavaScript/HTML/CSS
 Python
 1. Installera Visual Studio Code för ditt operativsystem från https://code.visualstudio.com/.
 2. Installera Python för ditt operativsystem från https://www.python.org/downloads/.
-3. Klona eller ladda ner TDD-Challenge-Goteborg från GitHub: https://github.com/j-y-c/TDD-Challenge-Goteborg.
-4. Öppna en terminal och navigera till mappen Python 
+3. Installera Python extension for Visual Studio Code
+4. Klona eller ladda ner TDD-Challenge-Goteborg från GitHub: https://github.com/j-y-c/TDD-Challenge-Goteborg.
+5. Öppna en terminal och navigera till mappen Python 
