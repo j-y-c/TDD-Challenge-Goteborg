@@ -1,5 +1,10 @@
 ﻿using CSharp.Data;
 
+//to run the program, use the following terminal command from the CSharp project folder
+//      >
+//      > dotnet run
+//      >
+
 class Program
 {
     static void Main()

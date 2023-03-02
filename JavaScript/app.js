@@ -1,6 +1,6 @@
 'use strict';
 
-//to run app.js, use the terminal command
+//to run app.js, use the following terminal command from the JavaScript project folder
 //      >
 //      > node app.js
 //      >
