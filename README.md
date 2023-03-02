@@ -28,4 +28,4 @@ Python
 1. Installera Visual Studio Code för ditt operativsystem från https://code.visualstudio.com/.
 2. Installera Python för ditt operativsystem från https://www.python.org/downloads/.
 3. Klona eller ladda ner TDD-Challenge-Goteborg från GitHub: https://github.com/j-y-c/TDD-Challenge-Goteborg.
-4. Öppna en terminal och navigera till mappen Python
+4. Öppna en terminal och navigera till mappen Python 
